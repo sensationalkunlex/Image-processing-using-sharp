@@ -1,4 +1,4 @@
-# Image Processing API - Udacity FullstackJS  #
+# Image Processing API   #
 
 ## Getting Started ##
 
